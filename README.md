@@ -10,8 +10,9 @@
 
 <p align="center">
   🌐 Connect with me:
+  <br>
   <a href="https://www.linkedin.com/in/kaandemirdev" target="_blank">
-    <img alt="LinkedIn" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="35" alt="LinkedIn" />
   </a>
 </p>
 <hr/>
@@ -23,9 +24,9 @@
     <!-- Languages -->
     <td align="center">
       <p><strong>Languages</strong></p>
-      <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="35" alt="C" " />
-      <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" height="35" alt="C#" " />
-      <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" height="35" alt="Java" " />
+      <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="35" alt="C" />
+      <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" height="35" alt="C#" />
+      <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" height="35" alt="Java" />
       <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="35" alt="Python" />
       <img src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000" height="35" alt="Kotlin" />
     </td>
