@@ -8,7 +8,7 @@
 
 <p align="center">💡 Passionate about technology, problem-solving, and continuous learning.</p>
 
-<p align="right">
+<p align="center">
   🌐 Connect with me:
   <a href="https://www.linkedin.com/in/kaandemirdev" target="_blank">
     <img alt="LinkedIn" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
